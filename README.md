@@ -35,3 +35,9 @@ The free tier for both accounts is sufficient for this workshop.
 ### Extraction-Sentiment-Category.ipynb
 
 This workbook reviews the process of connecting to the Google Cloud Console, generating an API key, and using it to call the text extraction, sentiment analysis, and document classification services available through the Google Cloud Discovery API.
+
+### External Links
+
+For a fuller description of the discovery API, including audio translation and other examples:
+
+https://colab.research.google.com/drive/1hPH7skySCZR-ZMJ6TmYLN1ug6vbq2cpb
