@@ -20,15 +20,20 @@ Participants should have basic introductory level Python programming skills, inc
 
 ### Setup and Configuration
 
-Participants will need a Google Drive account 
+Note: the free tier on all accounts below is sufficient for this workshop. 
+
+To use Google colab, participants will need a Google Drive account 
 
 https://www.google.com/drive/
 
-and a Google Cloud Platform account. 
+To use the AutoML services for text extraction, caategorization, and sentiment analysis, participants will need and a Google Cloud Platform account. 
 
-https://cloud.google.com
+https://cloud.google.comp 
 
-The free tier for both accounts is sufficient for this workshop. 
+To use Colab and AutoML on kaggle workbooks and data sets, users will need a Kaggle account. Note - to use GCP tools on Kaggle workbooks, please sign in or register through your Google account. 
+
+https://www.kaggle.com
+
 
 ## Workbooks
 
