@@ -45,7 +45,7 @@ This workbook reviews the process of connecting to the Google Cloud Console, gen
 
 Introduction to working with CORD-19 research data kaggle using GCP tools
 
-### Extraction-Sentiment-Category.ipynb
+### Covid-19-Sentiment-Category.ipynb
 
 Analyizing multiple documents from the CORD-19 dataset using GCP tools
 
