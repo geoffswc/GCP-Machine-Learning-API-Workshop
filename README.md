@@ -34,6 +34,10 @@ Overview on setting up a google project, generate an API key, and connect to the
 
 https://cloud.google.com/vision/automl/docs/how-to
 
+Quick Start
+
+https://cloud.google.com/vision/docs/setup
+
 To use Colab and AutoML on kaggle workbooks and data sets, users will need a Kaggle account. Note - to use GCP tools on Kaggle workbooks, please sign in or register through your Google account. 
 
 https://www.kaggle.com
