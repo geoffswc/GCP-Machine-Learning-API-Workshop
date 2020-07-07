@@ -30,9 +30,9 @@ To use the AutoML services for text extraction, caategorization, and sentiment a
 
 https://cloud.google.comp 
 
-To set up a google project, generate an API key, and connect to the AutoML API servive
+Overview on setting up a google project, generate an API key, and connect to the AutoML API servive
 
-https://cloud.google.com/natural-language/automl/docs/tutorial
+https://cloud.google.com/vision/automl/docs/how-to
 
 To use Colab and AutoML on kaggle workbooks and data sets, users will need a Kaggle account. Note - to use GCP tools on Kaggle workbooks, please sign in or register through your Google account. 
 
