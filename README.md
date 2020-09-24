@@ -26,9 +26,9 @@ To use Google colab, participants will need a Google Drive account
 
 https://www.google.com/drive/
 
-To use the AutoML services for text extraction, caategorization, and sentiment analysis, participants will need and a Google Cloud Platform account. 
+To use the AutoML services for text extraction, categorization, and sentiment analysis, participants will need a Google Cloud Platform account. 
 
-https://cloud.google.comp 
+https://colab.research.google.com/drive/1hPH7skySCZR-ZMJ6TmYLN1ug6vbq2cpb
 
 Overview on setting up a google project, generate an API key, and connect to the AutoML API servive
 
